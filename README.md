@@ -5,5 +5,4 @@ After the data has been mined by the first script, it will store that data into 
 
 The resulting data from the analysation was to be put on a website in the form of various graphs so that it could be viewed by our teacher for the project. Below is a video of that website with Twitter data on it.
 
-[![https://github.com/techiew/Twitter-Dataminer-and-Analyser/blob/master/thumbnail.png]](https://www.youtube.com/watch?v=G-7zbVIuYl0)
-
+[![Thumbnail](https://github.com/techiew/Twitter-Dataminer-and-Analyser/blob/master/thumbnail.png)](https://www.youtube.com/watch?v=G-7zbVIuYl0)
