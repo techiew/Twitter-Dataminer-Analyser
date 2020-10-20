@@ -1,6 +1,6 @@
 ## Twitter Dataminer & Analyser
 
-This project consists of a set of python scripts. The first script uses the [Tweepy API](https://www.tweepy.org/) to mine data from a specified Twitter account, specifically, the script grabs 200 of the specified account's latest tweets and stores the data for each one, such as the text, hashtags, number of times the tweet has been retweeted, and so on. 
+This project consists of a set of python scripts. The first script uses the [Tweepy API](https://www.tweepy.org/) to mine data from a specified Twitter account. The script grabs 200 of the specified account's latest tweets and stores the data for each one, such as the text, hashtags, number of times the tweet has been retweeted, and so on. 
 
 [![Thumbnail](https://github.com/techiew/Twitter-Dataminer-and-Analyser/blob/master/thumbnail.png)](https://www.youtube.com/watch?v=G-7zbVIuYl0)
 
