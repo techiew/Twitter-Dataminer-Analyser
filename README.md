@@ -31,4 +31,4 @@ Here's an example of a tweet that has been fetched using Tweepy:
     },
 ```
 
-After the data has been mined by the first script, it will store that data into a .json file for further processing. This .json file will be used as input for the translation and analysation scripts. The scripts then translate and analyse that data by using [Google Cloud APIs](https://cloud.google.com/apis) and the [AYLIEN Sentiment Analysis API](https://aylien.com/news-api/). The resulting data would then be put on the website in the video below in the form of various graphs so that we could show our results to the teacher.
+After the data has been mined by the first script, it will store that data into a .json file, like in the example above, for further processing. That .json file will be used as input for the translation and analysation scripts. Those scripts translate and analyse the data by using [Google Cloud APIs](https://cloud.google.com/apis) and the [AYLIEN Sentiment Analysis API](https://aylien.com/news-api/). The resulting data would then be put on the website shown in the video.
