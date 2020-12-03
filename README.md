@@ -6,7 +6,7 @@ This project consists of a set of python scripts. The first script uses the [Twe
 
 Here's an example of a tweet that has been fetched using Tweepy:
 
-'''json
+```javascript
 "1060934916651790336": {
         "hashtags": [],
         "created_at": "2018-11-09 16:39:30",
@@ -28,6 +28,6 @@ Here's an example of a tweet that has been fetched using Tweepy:
         "favorite_count": 34,
         "url": "https://twitter.com/erna_solberg/status/1060934916651790336"
     },
-'''
+```
 
 After the data has been mined by the first script, it will store that data into a .json file for further processing. This .json file will be used as input for the translation and analysation scripts. The scripts then translate and analyse that data by using [Google Cloud APIs](https://cloud.google.com/apis) and the [AYLIEN Sentiment Analysis API](https://aylien.com/news-api/). The resulting data would then be put on the website in the video below in the form of various graphs so that we could show our results to the teacher.
