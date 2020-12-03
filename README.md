@@ -4,6 +4,7 @@ This project consists of a set of python scripts. The first script uses the [Twe
 
 [![Thumbnail](https://github.com/techiew/Twitter-Dataminer-and-Analyser/blob/master/thumbnail.png)](https://www.youtube.com/watch?v=G-7zbVIuYl0)
 
+
 Here's an example of a tweet that has been fetched using Tweepy:
 
 ```javascript
